@@ -56,7 +56,7 @@ prose:
   rooturl: '_posts'
   siteurl: 'http://vailster.github.io/'
   relativeLinks: 'http://vailster.github.io/links.jsonp'
-  media: 'media'
+  media: '_posts/media'
   ignore:
     - index.md
     - _config.yml
