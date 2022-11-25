@@ -1,5 +1,8 @@
 ---
+layout: blog
 published: true
+tags:
+  - mac admin
 ---
 I thought I'd do a little post linking to some of the tools I've found really helpful throughout the years in managing macOS devices. Enjoy!
 
@@ -20,5 +23,3 @@ Does what it says on the tin - drop an application on this little utility's wind
 
 #### macOSLAPS
 [https://github.com/joshua-d-miller/macOSLAPS](https://github.com/joshua-d-miller/macOSLAPS)
-
-
