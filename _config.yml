@@ -54,7 +54,7 @@ plugins:
 
 prose:
   rooturl: '_posts'
-  siteurl: 'http://vailster.github.io/'
+  siteurl: 'http://vailster.github.io'
   relativeLinks: 'http://vailster.github.io/links.jsonp'
   media: '_posts/media'
   ignore:
