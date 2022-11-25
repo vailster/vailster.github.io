@@ -9,17 +9,17 @@ Lots can be read about the new museum [here](https://museum.london/)
 
 First off, I got **a lot** of photos of the outside as this corner of the Barbican is slated to be [heavily redeveloped](https://www.archpaper.com/2021/12/office-tower-studded-vision-unveiled-for-museum-of-london-redevelopment-site/).
 
-![IMG_20221123_141834.jpg]({{site.baseurl}}/_posts/IMG_20221123_141834.jpg)
+![IMG_20221123_141834.jpg]({{site.baseurl}}/_posts/media/IMG_20221123_141834.jpg)
 
-![IMG_20221123_141840.jpg]({{site.baseurl}}/_posts/IMG_20221123_141840.jpg)
+![IMG_20221123_141840.jpg]({{site.baseurl}}/_posts/media/IMG_20221123_141840.jpg)
 
-![IMG_20221123_141952.jpg]({{site.baseurl}}/_posts/IMG_20221123_141952.jpg)
+![IMG_20221123_141952.jpg]({{site.baseurl}}/_posts/media/IMG_20221123_141952.jpg)
 
-![IMG_20221123_142105.jpg]({{site.baseurl}}/_posts/IMG_20221123_142105.jpg)
+![IMG_20221123_142105.jpg]({{site.baseurl}}/_posts/media/IMG_20221123_142105.jpg)
 
-![IMG_20221123_142152.jpg]({{site.baseurl}}/_posts/IMG_20221123_142152.jpg)
+![IMG_20221123_142152.jpg]({{site.baseurl}}/_posts/media/IMG_20221123_142152.jpg)
 
-![IMG_20221123_142444.jpg]({{site.baseurl}}/_posts/IMG_20221123_142444.jpg)
+![IMG_20221123_142444.jpg]({{site.baseurl}}/_posts/media/IMG_20221123_142444.jpg)
 
 Once inside, we fell into that classic trap of spending ages on the first few galleries, only to realise the time and having to hurry through the last few. I may not have taken photos of everything, but I saw a lot of favourite displays and objects. 
 
