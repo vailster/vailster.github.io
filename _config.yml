@@ -74,10 +74,10 @@ prose:
           label: "Add Tags"
           placeholder: "Choose Tags"
           options:
-            - name: "Apples"
-              value: "apples"
-            - name: "Bananas"
-              value: "bananas"
+            - name: "Mac Admin"
+              value: "mac admin"
+            - name: "London"
+              value: "london"
     _posts/static:
       - name: "layout"
         field:
