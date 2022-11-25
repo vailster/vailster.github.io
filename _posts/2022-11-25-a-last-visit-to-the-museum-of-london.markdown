@@ -1,5 +1,6 @@
 ---
 published: true
+layout: blog
 ---
 ![The front entrance of the Museum of London's Barbican location in the early evening winter light]({{site.baseurl}}/_posts/media/IMG_20221123_165441.jpg)
 
