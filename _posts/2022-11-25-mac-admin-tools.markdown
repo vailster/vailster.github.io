@@ -10,3 +10,15 @@ This shell script was a game changer for me. It provides a programatic way to do
 
 #### Nudge
 [https://github.com/macadmins/nudge](https://github.com/macadmins/nudge)
+
+A pop up tool to 'encourage' people to install available macOS updates. You can really customise the look of and actions available in the pop up window, and how aggressive you want it to be as well. Configuration is done either via json or a macOS configuration profile. 
+
+#### Self Service Icon Maker
+[https://github.com/mm2270/Self-Service-Icon-Maker](https://github.com/mm2270/Self-Service-Icon-Maker)
+
+Does what it says on the tin - drop an application on this little utility's window, and out comes a perfect PNG of the application icon. 
+
+#### macOSLAPS
+[https://github.com/joshua-d-miller/macOSLAPS](https://github.com/joshua-d-miller/macOSLAPS)
+
+
