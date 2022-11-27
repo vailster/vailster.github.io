@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: post
 title: "Incredibly Useful Mac Admin Tools"
 ---
 
